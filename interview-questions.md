@@ -9,41 +9,41 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is `this` in JavaScript?
 
-  Your answer:
+  Your answer: i believe `this` is calling onto a line of code that it is in.
 
-  Researched answer:
+  Researched answer: a keyword in javascript that refers what the object belongs too.
 
 
 
 2. What is React? Why would you use it?
 
-  Your answer:
+  Your answer: a library to create ui and interactive website/app components.
 
-  Researched answer:
+  Researched answer:react is a javascript library used for createing and testing front end website ui
 
 
 
 3. Which lifecycle method is required in a React class component?
 
-  Your answer:
+  Your answer: render is the required lifecycle method in a react class component
 
-  Researched answer:
+  Researched answer: render is the only method in a class component  
 
 
 
 4. What is JSX? What is one notable difference between HTML and JSX?
 
-  Your answer:
+  Your answer: jsx allows the user to wrtie html within javascript. 
 
-  Researched answer:
+  Researched answer: jsx is js extension that shows what UI will look like. a diffrence between html and jsx is that you can run javascript can be ran in in jsx without a script implamentaion like html.
 
 
 
 5. What is yarn? What file(s) are modified in a React application when you run yarn?
 
-  Your answer:
+  Your answer:yarn is a resource manger that modiefies your testing.js files to test your code.
 
-  Researched answer:
+  Researched answer:yet another resource navagator. it allows data to be processed and ran. 
 
 
 
@@ -56,12 +56,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Conditional rendering: a conditional like if/else statements. used to create elements representing the current state and lets react update the ui to match.
 
-2. Props:
+2. Props: passes data from parent component to child component in react
 
-3. JavaScript Events:
+3. JavaScript Events: java scripts interaction with htmls actions
 
-4. Object oriented programming:
+4. Object oriented programming: emulateing object classes via constructor functions, and how to create object instances.
 
-5. Ruby:
+5. Ruby: object oriented language used for server side development
